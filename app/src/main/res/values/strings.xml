@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NeuContacts</string>
+    <string name="contacts_list_title">Contacts</string>
+    <string name="new_contact_title">New contact</string>
+    <string name="first_name_edit_text_hint">First name</string>
+    <string name="last_name_edit_text_hint">Last name</string>
+    <string name="mobile_edit_text_hint">Mobile</string>
+    <string name="e_mail_edit_text_hint">E-mail</string>
+    <string name="city_edit_text_hint">City</string>
+    <string name="address_edit_text_hint">Address</string>
+    <string name="zip_code_edit_text_hint">Zip code</string>
+    <string name="create_edit_text_hint">Create</string>
+    <string name="delete_edit_text_hint">Delete</string>
+    <string name="save_contact_button_text">Save</string>
+    <string name="edit_contact_title">Edit contact</string>
+
+</resources>
